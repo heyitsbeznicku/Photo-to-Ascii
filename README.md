@@ -26,11 +26,6 @@ Run the program and specify the output width when prompted. The generated ASCII 
 
 ## Preview
 
-A preview file can be added to the repository to show sample output. Rename or replace the placeholder below with your actual preview image or text file:
-
-- `preview.png` for a screenshot preview
-- `preview.txt` for a text-based ASCII sample
-
 > Example:
 >
 > `![Preview](preview.png)`
