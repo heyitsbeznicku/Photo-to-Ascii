@@ -28,7 +28,7 @@ Run the program and specify the output width when prompted. The generated ASCII 
 
 > Example:
 >
-> `![Preview](preview.png)`
+> ![Preview](preview.png)
 
 ## Notes
 
